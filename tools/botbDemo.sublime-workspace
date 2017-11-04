@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"number",
+				"number_of_frames"
+			],
+			[
+				"TRUE",
+				"TRUE"
+			],
+			[
+				"echo",
+				"echo_play_bgm"
+			],
+			[
+				"MAX",
+				"MAX_NUM_NPC"
+			],
+			[
+				"pri",
+				"priorityCutoff"
+			],
+			[
+				"init",
+				"initialPosition"
+			],
+			[
+				"str",
+				"startY"
+			],
+			[
+				"MAX_",
+				"MAX_NUM_DOORS"
+			],
+			[
+				"SPR_set",
+				"SPR_setAnim"
+			],
+			[
+				"next",
+				"nextLevel"
+			],
+			[
+				"SYS",
+				"SYS_enableInts"
+			],
+			[
+				"SYS_",
+				"SYS_disableInts"
+			],
+			[
+				"SPR_",
+				"SPR_setAnim"
+			],
+			[
+				"num",
+				"num_frames"
+			],
+			[
+				"spri",
+				"sprites"
+			],
+			[
+				"sprin",
+				"sprintCounter"
+			],
+			[
+				"plae",
+				"playerPosition"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"pr",
+				"protoXvel"
+			],
+			[
+				"level_",
+				"level_height"
+			],
+			[
+				"level",
+				"level01_data"
+			],
+			[
+				"patt",
+				"patternMatrix"
+			],
+			[
+				"a",
+				"array_of_8_u16"
+			],
+			[
+				"spin",
+				"spindashReleaseSound"
+			],
+			[
+				"LEVE",
+				"LEVEL_SIZE_Y"
+			],
+			[
+				"player",
+				"playerPosition"
+			],
+			[
+				"resolve",
+				"resolveLeftWall"
+			],
+			[
+				"colli",
+				"collisionNo"
+			],
+			[
+				"check",
+				"check_y"
+			],
+			[
+				"coll",
+				"collisionNo"
+			],
+			[
+				"col",
+				"collisionNo"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"can",
+				"canMoveRight"
+			],
+			[
+				"play",
+				"playerPosition"
+			],
+			[
+				"in",
+				"instrument3"
+			],
+			[
+				"cam",
+				"camposy"
+			],
+			[
+				"camp",
+				"camposx"
+			],
+			[
+				"c",
+				"camposy"
+			],
+			[
+				"m",
+				"m_matrix"
+			],
+			[
+				"ma",
+				"matrix_ptr"
+			],
+			[
+				"le",
+				"LEVEL_HEIGHT"
+			],
+			[
+				"leve",
+				"LEVEL_WIDTH"
+			],
+			[
+				"hand",
+				"handleAnimation"
+			],
+			[
+				"han",
+				"handlePhysics"
+			],
+			[
+				"cha",
+				"changed"
+			],
+			[
+				"y",
+				"yaxis"
+			],
+			[
+				"yax",
+				"yaxisOld"
+			],
+			[
+				"xax",
+				"xaxisOld"
+			],
+			[
+				"SPR_se",
+				"SPR_setHFlip"
+			],
+			[
+				"AU",
+				"AUDV0"
+			],
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"bass",
+				"bass_major"
+			],
+			[
+				"sq",
+				"square_inst"
+			],
+			[
+				"rand",
+				"random_list"
+			],
+			[
+				"main",
+				"main_melody"
+			],
+			[
+				"main_",
+				"main_melody_note_len"
+			],
+			[
+				"t",
+				"t"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/aaron/programming/botbDemo/src/part2.c",
+			"settings":
+			{
+				"buffer_size": 8023,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/src/part3.c",
+			"settings":
+			{
+				"buffer_size": 1040,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/src/boot/sega.s",
+			"settings":
+			{
+				"buffer_size": 11604,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/src/main.c",
+			"settings":
+			{
+				"buffer_size": 439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/inc/part3.h",
+			"settings":
+			{
+				"buffer_size": 72,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/res/resources.res",
+			"settings":
+			{
+				"buffer_size": 1125,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/botbDemo/out/symbol.txt",
+			"settings":
+			{
+				"buffer_size": 52496,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"Clean"
+				],
+				[
+					"Build",
+					"Debug"
+				]
+			],
+			[
+				"Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"last_filter": "brow",
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"plugin",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"run ",
+			"build",
+			"dir()",
+			"help",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aaron/programming/botbDemo",
+		"/home/aaron/programming/botbDemo/inc",
+		"/home/aaron/programming/botbDemo/out",
+		"/home/aaron/programming/botbDemo/out/src",
+		"/home/aaron/programming/botbDemo/src",
+		"/home/aaron/programming/botbDemo/src/boot"
+	],
+	"file_history":
+	[
+		"/home/aaron/programming/genesis-rpg/src/engine/npc.c",
+		"/home/aaron/programming/genesis-rpg/Makefile",
+		"/home/aaron/programming/botbDemo/Makefile",
+		"/home/aaron/programming/botbDemo/src/title.c",
+		"/home/aaron/programming/botbDemo/src/part1.c",
+		"/home/aaron/programming/botbDemo/src/part2.c",
+		"/home/aaron/.cache/.fr-fg5gPT/Sonic Sounds Complete Readme.txt",
+		"/home/aaron/Videos/wget-log",
+		"/home/aaron/Music/Makefile",
+		"/home/aaron/programming/botbDemo/res/part2/parallax.png",
+		"/home/aaron/programming/botbDemo/res/resources.res",
+		"/home/aaron/programming/timesTables/cardioid.html",
+		"/home/aaron/Downloads/knuckles.mp4",
+		"/home/aaron/programming/botbDemo/inc/part1.h",
+		"/home/aaron/programming/botbDemo/src/main.c",
+		"/home/aaron/programming/botbDemo/res/part2/sydneyFG.png",
+		"/home/aaron/programming/botbDemo/src/functions.c",
+		"/home/aaron/programming/botbDemo/inc/functions.h",
+		"/home/aaron/programming/botbDemo/tools/NoteValues.py",
+		"/home/aaron/ERROR.log",
+		"/home/aaron/programming/genesis-rpg/src/engine/functions.c",
+		"/home/aaron/programming/botbDemo/inc/part2.h",
+		"/home/aaron/programming/botbDemo/out/symbol.txt",
+		"/home/aaron/programming/botbDemo/src/boot/rom_head.c",
+		"/home/aaron/programming/botbDemo/inc/title.h",
+		"/home/aaron/programming/genesis-rpg/res/sound.res",
+		"/home/aaron/programming/genesis-rpg/tools/genesis-rpg.sublime-project",
+		"/home/aaron/programming/botbDemo/tools/botbDemo.sublime-project",
+		"/home/aaron/programming/botbDemo/makefile",
+		"/home/aaron/software/Cuphead/README.txt",
+		"/home/aaron/software/Cuphead/GAMESTORRENT.CO.url",
+		"/home/aaron/software/Cuphead/IGG-GAMES.COM.url",
+		"/home/aaron/programming/genesis-rpg/src/engine/echo.c",
+		"/home/aaron/programming/genesis-rpg/src/engine/playerController.c",
+		"/home/aaron/programming/genesis-rpg/docs/blog.md",
+		"/home/aaron/programming/genesis-rpg/.gitignore",
+		"/home/aaron/programming/genesis-rpg/inc/engine/engine.h",
+		"/home/aaron/programming/genesis-rpg/src/engine/tiles.c",
+		"/home/aaron/programming/genesis-rpg/src/sound.c",
+		"/home/aaron/programming/genesis-rpg/src/engine/sound.c",
+		"/home/aaron/Downloads/aceInAction/DisneysLittleActionboi/www.newgamesbox.net/README.txt",
+		"/home/aaron/Downloads/aceInAction/DisneysLittleAction/www.newgamesbox.net/README.txt",
+		"/media/aaron/CL2/disk1.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FaceInAction%252FDisneysLittleActionboi%252Fwww.newgamesbox.net%252FDisneys%252520Chicken%252520Little%252520Ace%252520In%252520Action%252FChicken%252520Little%252520Ace%252520In%252520Action.iso/disk1.txt",
+		"/media/aaron/CL2/ReadMe.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252FChickenLittleAceInAction.iso/disk1.txt",
+		"/home/aaron/programming/genesis-rpg/src/levels.c",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/ViTALiTY/vitality.nfo",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/disk1.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/Setup/warnUK.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/Setup/warnKO.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/autorun.inf",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/EULA.TXT",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY%252Fvty-claa.iso/ReadMe.txt",
+		"/home/aaron/programming/bugROM/main.c",
+		"/home/aaron/programming/genesis-rpg/src/engine/stateSwitcher.c",
+		"/home/aaron/Downloads/Chicken.Little.Ace.In.Action-ViTALiTY/ViTALiTY.nfo",
+		"/home/aaron/Downloads/Chicken.Little.Ace.In.Action-ViTALiTY/extract.sh",
+		"/home/aaron/programming/genesis-rpg/inc/constants.h",
+		"/home/aaron/programming/genesis-rpg/res/graphics.res",
+		"/home/aaron/programming/genesis-rpg/inc/engine/tiles.h",
+		"/home/aaron/.cache/.fr-weqK2e/Make.sublime-build",
+		"/home/aaron/programming/genesis-rpg/inc/engine/playerController.h",
+		"/home/aaron/programming/genesis-rpg/inc/engine/stateSwitcher.h",
+		"/home/aaron/programming/genesis-rpg/src/engine/main.c",
+		"/home/aaron/programming/genesis-rpg/inc/engine/echo.h",
+		"/home/aaron/programming/genesis-rpg/src/boot/sega.s",
+		"/home/aaron/programming/genesis-rpg/src/boot/rom_head.c",
+		"/home/aaron/programming/genesis-rpg/tools/Echo/doc/eif.txt",
+		"/home/aaron/programming/number.txt",
+		"/home/aaron/programming/genesis-rpg/out/symbol.txt",
+		"/home/aaron/programming/genesis-rpg/out/rom.bin",
+		"/home/aaron/programming/genesis-rpg/out/rom.out",
+		"/home/aaron/programming/genesis-rpg/inc/engine/npc.h",
+		"/home/aaron/programming/genesis-rpg/inc/engine/instruments.h",
+		"/home/aaron/programming/genesis-rpg/inc/resources.h",
+		"/home/aaron/programming/genesis-rpg/inc/engine/levels.h",
+		"/home/aaron/programming/genesis-rpg/src/main.c",
+		"/home/aaron/programming/genesis-rpg/inc/engine.h",
+		"/home/aaron/programming/genesis-rpg/src/npc.c",
+		"/home/aaron/.cache/.fr-hDuD7q/Chicken.Little.Ace.In.Action-ViTALiTY/ViTALiTY.nfo",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Faaron%252FDownloads%252FChicken.Little.Ace.In.Action-ViTALiTY.iso/Chicken.Little.Ace.In.Action-ViTALiTY/ViTALiTY.nfo",
+		"/home/aaron/programming/genesis-rpg/inc/functions.h",
+		"/home/aaron/programming/genesis-rpg/src/tiles.c",
+		"/home/aaron/programming/sightAsSound/main.py",
+		"/home/aaron/programming/genesis-rpg/src/stateSwitcher.c",
+		"/home/aaron/.bashrc",
+		"/home/aaron/programming/genesis-rpg/src/playerController.c",
+		"/home/aaron/programming/TestROM/tools/buildSongs.sh",
+		"/home/aaron/programming/TestROM/res/songs.res",
+		"/home/aaron/programming/TestROM/src/main.c",
+		"/home/aaron/programming/TestROM/res/assembly/old_emporium.asm",
+		"/home/aaron/software/IWBTB/Custom/About custom characters.txt",
+		"/home/aaron/programming/genesis-rpg/inc/levels.h",
+		"/home/aaron/programming/genesis-rpg/inc/npc.h",
+		"/home/aaron/programming/genesis-rpg/inc/sound.h",
+		"/home/aaron/Downloads/oh.py",
+		"/home/aaron/Downloads/recursive",
+		"/home/aaron/programming/TestROM/src/boot/rom_head.c",
+		"/usr/share/kega-fusion/Fusion.ini",
+		"/home/aaron/programming/genesis-rpg/src/echo.c",
+		"/home/aaron/programming/genesis-rpg/inc/stateSwitcher.h",
+		"/home/aaron/programming/lever/package.json",
+		"/home/aaron/programming/lever/.gitignore",
+		"/home/aaron/programming/Lever/Levels/myLevel.lev",
+		"/home/aaron/programming/Lever/Levels/super.lev",
+		"/home/aaron/programming/genesis-rpg/README.md",
+		"/home/aaron/programming/TestROM/res/assembly/trial3.asm",
+		"/home/aaron/programming/TestROM/Echo/doc/esf.txt",
+		"/home/aaron/programming/TestROM/res/assembly/trial1.asm",
+		"/home/aaron/programming/TestROM/res/assembly/trial2.asm",
+		"/home/aaron/programming/TestROM/makefile",
+		"/home/aaron/programming/genesis-rpg/inc/tiles.h",
+		"/home/aaron/programming/genesis-rpg/src/functions.c",
+		"/home/aaron/programming/genesis-rpg/res/sound/Old_Emporium/Old_Emporium.asm",
+		"/home/aaron/Downloads/Sound_Coder_by_DSS/README",
+		"/home/aaron/Documents/sigh/read.txt",
+		"/home/aaron/.zsnes/rominfo.txt",
+		"/home/aaron/.zsnes/zfont.txt",
+		"/home/aaron/programming/test.c",
+		"/home/aaron/programming/genesis-rpg/res/soundRes.res",
+		"/home/aaron/programming/genesis-rpg/res/sound/Old_Emporium/instr_14.eif",
+		"/home/aaron/programming/genesis-rpg/res/sound/Overworld_theme/overv.asm",
+		"/home/aaron/programming/genesis-rpg/res/sound/Overworld_theme/instr_00.eif",
+		"/home/aaron/programming/Echo/doc/esf.txt",
+		"/home/aaron/Documents/songs/Song.xml",
+		"/home/aaron/programming/genesis-rpg/res/resources.h",
+		"/home/aaron/programming/Echo/doc/eef.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"50",
+			"992",
+			"1248",
+			"1504",
+			"spriteSpawned",
+			"lib",
+			"-fuse-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1120",
+			"992"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/aaron/programming/botbDemo/src/part2.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/aaron/programming/botbDemo/src/part3.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/aaron/programming/botbDemo/src/boot/sega.s",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11075,
+								11075
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/M68k-Assembly/M68k-Assembly.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6934.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/aaron/programming/botbDemo/src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/aaron/programming/botbDemo/inc/part3.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/aaron/programming/botbDemo/res/resources.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1125,
+								1125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/aaron/programming/botbDemo/out/symbol.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48995,
+								48995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 29382.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "Build",
+	"project": "botbDemo.sublime-project",
+	"replace":
+	{
+		"height": 69.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/programming/genesis-rpg/tools/genesis-rpg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
