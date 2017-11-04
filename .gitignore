@@ -34,3 +34,5 @@ out/symbol.txt
 
 # Debug files
 *.dSYM/
+
+*.sublime-workspace
